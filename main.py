@@ -1,5 +1,6 @@
 # -*- coding:utf-8 -*-
 
+# skku :)
 
 def main():
     print("Hello, world!"
